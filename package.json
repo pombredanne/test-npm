@@ -1,0 +1,20 @@
+{
+  "name": "test-npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "ajv": "^8.11.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pombredanne/test-npm.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pombredanne/test-npm/issues"
+  },
+  "homepage": "https://github.com/pombredanne/test-npm#readme"
+}
